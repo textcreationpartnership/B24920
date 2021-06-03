@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>King Iames his iudgement of a king and of a tyrant extrated out of his own speech at VVhite-hall to the Lords and Commons in Parliament 1609 : with certaine notations anent the same : also 28 questions worthy due consideration and solution in these dangerous times of England.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 30KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24920</idno><idno type="EEBO-CITATION">12277330</idno>
+  <idno type="VID">197606</idno>
+  <idno type="EEBO-PROQUEST">2248571040</idno>
+  
+            <idno type="STC">Wing J137</idno>
+            <idno type="STC">Thomason v. I, pt. I, p. 167</idno>
+            <idno type="OCLC">12277330</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24920)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197606)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 247:E116, no 20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>King Iames his iudgement of a king and of a tyrant extrated out of his own speech at VVhite-hall to the Lords and Commons in Parliament 1609 : with certaine notations anent the same : also 28 questions worthy due consideration and solution in these dangerous times of England.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Thomason Coll.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Kings and rulers.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Susie Lorand </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:197606:1"/>
+            <head>KING IAMES His Iudgement of a KING and of a TYRANT. Extracted out of His own Speech at <hi>VVhite-Hall,</hi> to the Lords and Commons in Parliament, 1609. With certaine Notations anent the same.</head>
+            <head type="sub">Also 28 Questions, worthy due consideration and solution, in these dangerous times of <hi>England.</hi>
+            </head>
+            <epigraph>
+               <bibl>Ecclesiastes 4. 13.</bibl>
+               <q>Better is a poore and wise Child, then an old and foolish King, who will no more be admonished.</q>
+            </epigraph>
+            <p>A <hi>KING</hi> (saith King JAMES) <hi>in a settled Kingdome, binds himselfe to a double Oath; to the observation of the fundamentall Laws of His Kingdome, Tacitly; as by being a King, and so bound to protect, as well the People, as the Laws of his King<g ref="char:EOLhyphen"/>dome: and expresly, by his Oath at his Coronation. So as every just King in a settled Kingdome is bound to observe that Paction (or Covenant) made to his People by his Laws, in framing his government agreeable thereunto, according to that Paction made with</hi> Noah <hi>after the Deluge</hi> (Gen. 9. 22.) <hi>And therefore a King governing in a settled Kingdome, leaves to be a King, and degenerates into a Tyrant, as soone as he leaves off to rule according to his Laws. Therfore all Kings that are not Tyrants, or perjured, wilbe glad to bound themselves within the limits of their Laws; and they that perswade them the contrary, are Vipers and Pests, both against them and the Common-weale:</hi> This was the opinion of our geud King JAMES.</p>
+            <p>Whence I Observe, in the first place, the occasion whereupon the King spake these words: for in the beginning of the Parliament (as the custome in <hi>England</hi> is) a Bishop preaching, in his Sermon he treated at large of the Prerogative of Kings, how boundlesse it was, labouring to prove it out of Gods word. Whereat great offence being taken by the Parliament: the King to pacifie them, made this Speech, blaming the Bishop in this, that he did not distinguish between a King at large, and the King of <hi>England,</hi> which is a settled Kingdome, of which his forementioned words are spoken. So as the occasion gives much strength to his words.</p>
+            <p>And sithence they are the Kings own words, I advise every wise man in <hi>England</hi> to take the better notice of them, and to Observe these particulars.</p>
+            <p n="1">1. That though the King of <hi>England</hi> at his Coronation did take no Oath at all: yet his very being a King implyes as much as an Oath, and is instead of an Oath to oblige him to protect as well the People, as the Laws of his Kingdome. Seeing the
+<pb facs="tcp:197606:2"/> Office of a King binds him, even by the very law of nature, to be a Protector, as an Observator lately well observed. So farre is it, that any pretended, swelling exube<g ref="char:EOLhyphen"/>rant and boundlesse Prerogative should assume to it selfe a right of power to over<g ref="char:EOLhyphen"/>turn the law of nature by destroying both his People and Laws at his pleasure, and exposing the Kingdome to ruine, in stead of protecting and defending it.</p>
+            <p n="2">2. That every King of <hi>England</hi> is bound expresly by his Oath at his Coronation to be a just King, in observing his solemne Covenant made with his People.</p>
+            <p n="3">3. That this his paction is by the Law of the Land agreeable to that whereunto he is to frame his Government.</p>
+            <p n="4">4. That this his Covenant ought to be as firme and inviolable, as that Covenant which <hi>God</hi> made with <hi>Noah</hi> after the Deluge, which was never yet broken, nor ever shalbe.</p>
+            <p n="5">5. That a King governing in a settled Kingdome, as the Kingdome of <hi>England</hi> is, leavs to be a King so soon as he leaves off and failes to rule according to his Laws. And so leaving off to be a King, the Covenant on his part is infringed, so as the People are no longer his Subjects to obey him in his lawlesse Government, then he is their King governing them according to his Laws.</p>
+            <p n="6">6. Such an one leaving to be a King and degenerating into a Tyrant, doth ther<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alt<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he whole frame of the State, as turning the Kingdome into a Tyranny, which are two opposite forms of Government, the one excluding the other, as being inconsistent together: seeing a Kings Function is to protect and preserve safe and sound the Laws and Subjects of the Kingdome: but a Tyrant overthrows and de<g ref="char:EOLhyphen"/>stroyes all Laws of the Kingdome, and all the Rights, liberties, and Priviledges of the true naturall leige people.</p>
+            <p n="7">7. If a King, so soon as he leaves off to rule according to his Laws, leaves off, and ceases <gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be a King, and degenerates into a Tyrant, then much more He, that not only hath begun to leave off to rule according to his Laws, but obstinately, perversly, wilfully, wittingly, yea and palpably holds on, and continues, yea stifly maintaines under the Title of Prerogative, a most boundlesse, swelling, exuberant and lawlesse Tyranny; yea moreover (which is one infallible marke and property of all Tyrants) doth take up Armes against the faithfullest, honestest and godlyest liege people of his Land; yea against the whole body of the Land, when assembled in Parliament, s<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting for the good of the Kirke and State, to preserve and vindicate the Laws of the Land, with the Rights, Liberties and Priviledges of the freeborne liege people from Tyranny, and so from perpetuall bondage and Slavery, both of Soule and Body, and Estate▪ which Tyrannicall Government (but ever under the counterfeit colour and vizard of <hi>maintaining the Laws and Liberties of the Subject, with Priviledges of Parliament,</hi> and what not? and all this bound in with solemne <hi>Prote<g ref="char:EOLhyphen"/>stations, Declarati<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> and calling <hi>God and the world to witnesse,</hi> when they can witnesse nothing, but that of all this, there is hardly a word true and all this, to seduce and blind not only the simple and well minded people, but even those that are prudent, saving that they have not observed the manifold juglings of the Court) will of ne<g ref="char:EOLhyphen"/>cessity bring upon the Kingdome, if they can but come once to open the sluces of the Sea to let in Forraigne auxiliarie Forces, as some second Spanish Fleet. For this is a constant maxime and practise of Tyrants, to call in Forraigne power, as confiding more in them then in the native liege people, which being freeborne, do naturally hate and abhorre to become the vild vassalls and slaves to lawlesse Ty<g ref="char:EOLhyphen"/>rants,
+<pb facs="tcp:197606:2"/> to which if they cannot be wonne by flattery, faire words, and big promises, (but all as false as the Father of lyes) then desperate and down-right force must do it, as we have both seene wofull proofe in <hi>Ireland;</hi> and (but that Gods never fayl<g ref="char:EOLhyphen"/>ing mighty Providence had not so many times prevented) both our Brethren in <hi>England,</hi> and we also in <hi>Scotland,</hi> had before this day felt.</p>
+            <p>Againe, these twe last Notations following from our geud departed Kings said Speech do easilie inferre thus much, That if Kings cease to be Kings, setting up an absolute Tyranny over the people, to governe them no longer by the Laws as free<g ref="char:EOLhyphen"/>borne liege people but lawlesly as vassalls and slaves; then on the other side the peo<g ref="char:EOLhyphen"/>ple leaving to be Subjects do owne them no more obedience, as being none of their Kings, but usurping Tyrants. For as a King turning Tyrant, practising Tyranny under the name of Prerogative, hath broken the bonds of the Kingdome: so the Subjects owe him no more duty of liege people, except they will avow themselves his Slaves, and so betrayers of their own and the publike Liberties, which ought to be more precious unto them then their lives and lands.</p>
+            <p n="8">8. A King so degenerating into a Tyrant, is by the verdict of our geud K. <hi>Iames</hi> departed, a perjured Man, seeing he leaves off to bound himselfe within the circle of his Laws, which he hath solemnly sworne and vowed to keep, with many <hi>Pro<g ref="char:EOLhyphen"/>testations,</hi> as afore spoken. And perjured men as they are odious to <hi>God,</hi> so they bring an Execration upon a Land, <hi>zach.</hi> 5.</p>
+            <p n="9">9. Such as Councell the King so to turne Tyrant, are <hi>Vipers and Pests, both against Him, the Kirke and Common wealth.</hi> And therefore though the Tyrant will needs in despight of the Body of the Kingdome maintaine and nourish such Vipers and Plagues in his bosome to the ruine both of Himselfe, the Kirke and Common<g ref="char:EOLhyphen"/>wealth: yet it stands not with the safety of the State to suffer such Vipers and Plagues, but to spue them out. According to that Counsell of K. <hi>Salomon, Take away the wicked from before the King, and his Throne shalbe established in righteousnes.</hi> Pro. 25. 5. I will conclude this with a scruple or case of Conscience, which is this▪ <note place="margin">A case of Conscience.</note> Many in these dayes dare not out of the softnesse of their Conscience, put to their helping hand by affording part of their estate, or hazarding their per<g ref="char:EOLhyphen"/>sons for the defence of the Common weale, though they have both seen the blee<g ref="char:EOLhyphen"/>ding example of <hi>Ireland,</hi> and have and do see the sanguineous attempts of a crew of wash-bucklers and cut-throats, to make <hi>England</hi> a second Stage whereon to Act their bloody Tragedy, in sacrificing the lives of all those that will not lay downe their crages under the yoake of perpetuted vassilage and tyranny over their goods, liberties, lives and lawes, yea <hi>soules</hi> and all. And their reasons are twe especially.</p>
+            <p>First, because they thinke they cannot use defensive meanes for the Common<g ref="char:EOLhyphen"/>weale, but they must prove offensive to their King, as the case now stands.</p>
+            <p>Secondarily, because their King hath used so many solemne Protestations with execrations and imprecations, upon himself and his off-spring (as in his by-past an<g ref="char:EOLhyphen"/>swer, <hi>pag.</hi> 5.) invoking God to witnesse oft times, if ev<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r he intend to alter the Pro<g ref="char:EOLhyphen"/>testant Religion, or the forme of the re-publike established upon good Lawes, or to gather Forces, save onely for the Guard of His Person, and no way to make Warre against the Parliament, and the like.</p>
+            <p>Now anent the former of these twe reasons, it is sufficiently solved from what is gathered by necessary consequence from King <hi>Iames</hi> his owne words as afore. For a King ceasing to governe according to his lawes, to which he is obliged by
+<pb facs="tcp:197606:3"/> oath, and acording to which hee is by solemne Covenant with his liege people taken for their King, he ceaseth to be a King and degenerates into a Tyrant. Now never any of the Subjects of <hi>England,</hi> not their Parliament, not any of those that now stand up to defend the Kings boundlesse Prerogative in <hi>England,</hi> which he in<g ref="char:EOLhyphen"/>tends to be no lesse then an absolute Tyrannie, ever gave their assents (for ought that ever I could yet read or observe in their government) or made a Covenant; that they would bee slaves under a Tyrannicall, or Arbitrary Lawlesse Govern<g ref="char:EOLhyphen"/>ment. So that whosoever doth stand for the Kings lawlesse Prerogative (for such hee understands it to be, as plainly appeareth by all his anti-Parliamentary cour<g ref="char:EOLhyphen"/>ses, tending to the utter ruine and desolation of the fice-borne Liege people of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> together with their Rights, Lawes and Liberties, as hath beene unanimously Voted by both their Houses of Parliament, the highest and most unpartiall Judge, for the declaring of the laws of their Land) whosoever (I say) doth so stand up in defence of the Kings boundlesse and swelling Prerogative against the Parliament is a most notorious enemy of the Kirke and Common-weale, of the Laws, and Li<g ref="char:EOLhyphen"/>berties of their Native Country, and so of themselves, their families, and posteri<g ref="char:EOLhyphen"/>ties for ever. And this is a maxime in nature, <hi>that the whole is to bee <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nte▪poned before any part:</hi> and herefore <hi>every member</hi> ought to collate its whole strength for the con<g ref="char:EOLhyphen"/>servation <hi>of the whole state.</hi> Sundry heathens have willingly perished to save their Country. And so much the rather, when it stands, even with rationall prudence, that the relinquishing of a part, yea the one halfe, preserves that which remaines, which otherwise, with the owner himselfe, and all his would necessarily perish. And in such a case of necessitie, all persons, or Members of the Common-weale ought to bee forced (if otherwise unwilling) to contribute liberally, according to their severallabilities, to the preservation of it. And above all, when we see the true Religion struck at, and so Christs Kirke or Kingdom openly invaden, that so both it, and the Common-weale might fall and perish together. And shall we doe no<g ref="char:EOLhyphen"/>thing for Christ, and for the salvation of our soules?</p>
+            <p>To the second Reason I answer, that all the Kings solemne oaths, vowes, pro<g ref="char:EOLhyphen"/>testations▪ Declarations Imprecations and Execrations upon himselfe and Poste<g ref="char:EOLhyphen"/>ritie, calling God to witnesse, and the like, should bee examined what truth is in them by comparing therewith his ordinary and daily practises, and that even from the first entrance of H<gap reason="illegible" resp="#uom" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Reigne, ever since he wrote that letter of his to the <hi>Pape</hi> of <hi>Rome,</hi> lately published in English▪ with the Papes letter to him In which let<g ref="char:EOLhyphen"/>ter▪ he professeth and voweth to the Pape (whom hee stiles, <hi>most holy Father)</hi> his ser<g ref="char:EOLhyphen"/>vice and zeale to imitate his Progenitors and Ancestors, as who exposed their estates and lives▪ (as hee writes) for the exaltation of the holy Chaire, or See of <hi>Rome.</hi> This he accounts his greatest honour, that he is descended of such Progeni<g ref="char:EOLhyphen"/>tors. He commends his father for endeavouring unity with <hi>Rome,</hi> and other her confederates: and the Pape his holines for his <hi>Wisdom</hi> in contriving &amp; <hi>designing the match with the Infanta of</hi> Spaine, thereby to reduce all to one Religion, which he cals the <hi>true Religion▪</hi> and that hee expresseth to bee <hi>the Catholicke Apostolicke, Roman Religion, for the maintenance whereof</hi> (saith hee) <hi>I have resolved to spare nothing that I have in the World, but will hazard estate and life, and suffer all incommodities for a thing so pleasing to God,</hi> and for the Protestant Religion, he saith, <hi>I intreat your holinesse to beleeve, that I have beene alwaies very farre from incouraging novelties, or to be a part of any faction a<g ref="char:EOLhyphen"/>gainst the Catholicke, Apostolicke, Roman Religion: but on the contrary, I have sought all oc<g ref="char:EOLhyphen"/>casions</hi>
+               <pb facs="tcp:197606:3"/>
+               <hi>to take away the suspicion that might rest upon me, and that I will imploy, my selfe for the time to come, to have but one Religion, and one faith.</hi> And againe <hi>It is very cer<g ref="char:EOLhyphen"/>taine, I shall never be so extreamely affectionate to any thing in the World, as to endeavour alliance with a Prince, that hath the same apprehension of the true Religion with my selfe.</hi> Thus it is expressed in the letter, signed (as the Story shewes) with <hi>Charles Steward.</hi> Thus we see a precontract made the with <hi>Pape</hi> of <hi>Rome,</hi> which nulls &amp; makes voyd and of none effect all other vowes, promises, Protestations &amp;c. contrariwise, con<g ref="char:EOLhyphen"/>sidering also, that though hee married not the <hi>Infanta,</hi> but the daughter of <hi>France,</hi> all is one in point of Religion, this having the same conditions, and articles with that of <hi>Spaine,</hi> which (I hope) doe in nothing crosse the contents of the said letter, neither hath hee renounced either those articles, or the said Letter for ought that can yet bee discerned. And therefore I thinke <hi>England</hi> hath no reason to con<g ref="char:EOLhyphen"/>fide in such Protestations, as are so palpably contradicted both by such a league and by so many practises ever since that letter was written, and that match made, to this very day. And for such Protestations, though they seeme to reach as farre as Heaven and are such▪ as the worst of the Heathen would detest; yet the most holy Father, the Pape, giving a dispensation thereunto, it is a warrant sufficient both to God dishonour to delude men, and to injure their own consciences, yea and withour repentance to damne their owne soules, and yet for all this, bee innocent Catholicke men of <hi>Rome,</hi> in the <hi>Papes</hi> esteeme.</p>
+            <p>The example of <hi>David</hi> in sparing King <hi>Saul,</hi> his heart also smiting him for having cut off the skirt of his garment in the cave, is objected as an argument, to prove the unlawfullnesse of taking up armes against the King in these dayes.</p>
+            <p>Whereto I answer: 1. It is confessed, and the Scripture disalows it not, as be<g ref="char:EOLhyphen"/>ing the law of nature, that <hi>David</hi> got together an Army of 600. valiant men, for his and their defence against <hi>Sauls</hi> tyrannie, who sought to kill <hi>David,</hi> whom God had designed and anointed for the Kingdome of Israel. And if one particular man, (though as yet a private person in comparison) might lawfully defend himselfe a<g ref="char:EOLhyphen"/>gainst a Tyrant, that sought his life: then much more a whole state, or body re<g ref="char:EOLhyphen"/>presentative of a Kingdome, may use meanes to defend themselves, and the King<g ref="char:EOLhyphen"/>dome, by whom they are put in trust, even by force of armes in a Military way, when a King goes about to overthrow their Laws, Liberties, and livelyhood, and to bring them and their posterity being free-borne liege people under the tyranni<g ref="char:EOLhyphen"/>call yoake of perpetuall slavery.</p>
+            <p n="2">2. Againe, tis a different case for a private man to lay violent hands upon the person of a Tyrannicall King, to take away his life, (which I utterly disallow) and for a whole state to stand up to defend themselves against tyrannicall usurpation. <hi>David</hi> would not, nor durst doe the former: but he and his men did the latter, so farre as concerned them and theirs, for their safety.</p>
+            <p n="3">3. I answer from an other example in Scripture: when the 10. Tribes complai<g ref="char:EOLhyphen"/>ned of their unjust burthens to the young King <hi>Rehoboam,</hi> and petitioned to him, (like <hi>Englands</hi> petition of right) that he would ease their yoke &amp;c. and the King rejecting the Counsell of his grave Senators, who had been the Councellors of King <hi>Sal<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mon</hi> his Father, and following the unsound counsell of his younkers and mad Cavaliers: they thereupon (and that by (1 <hi>Ki.</hi> 12.) Gods own approbation) set up a new King over them, and so became a distinct Kingdom from <hi>Iuda.</hi> And this I say) God himselfe confirmed; so that if the new King <hi>Ieroboam,</hi> had not in his foo<g ref="char:EOLhyphen"/>lish
+<pb facs="tcp:197606:4"/> policy led the Ringdome away to Idolatry, God would have made it a con<g ref="char:EOLhyphen"/>stant and a happy Kingdome to him and his. And when at the first parting, <hi>Reho<g ref="char:EOLhyphen"/>boam</hi> would have with an Army recovered his losse, 1 <hi>Kings</hi> 12. the Lord would not allow of it. And according to the Proverb. <hi>Vox populi, Vox Dei:</hi> when there is a generall Vote and agreement of the people, or of the whole body of the State re<g ref="char:EOLhyphen"/>presentative concerning the safe-guarding and defending of the Civill Govern<g ref="char:EOLhyphen"/>ment when invaded by Tyrannicall violence, and usurpation, threatning confu<g ref="char:EOLhyphen"/>sion of the whole State; then surely the God of order and not of confusion, and the greatest preserver of Kingdomes and States, and the most wise Governor and dis<g ref="char:EOLhyphen"/>poser of them to whom he will, doth clearely appeare in such publicke unanimity of the people to restraine and regulate unjust, usurpers &amp; unsationable, cruell, and bloody Tyrants▪ whose lusts nothing can satisfie, but the ruine of all, rather then their proud tyranny shall fall to ground.</p>
+         </div>
+         <div type="queries">
+            <head>Certaine Quaeries of things done since King <hi>Charles</hi> his Reign began.</head>
+            <p n="1">1. VVHen our geud King <hi>Iames</hi> his death was by one of his Phisitians tendered to the King, and Parliament, to be examined, why the Parliament was oft soone dissolved?</p>
+            <p n="2">2. When in the first and succeeding Parliaments, they began to fall upon Re<g ref="char:EOLhyphen"/>formation in <hi>Kirke</hi> and <hi>State,</hi> why still were the Parliaments dissolved?</p>
+            <p n="3">3. Why, presently after the Petition of Right in <hi>England</hi> was signed, it was vi<g ref="char:EOLhyphen"/>olated and nulled by imprisoning of sundry members of <hi>Parliament,</hi> which cost some of them their lives?</p>
+            <p n="4">4. Why at length came <hi>Parliaments</hi> to bee so out of date and request, as that a Proclamation was published inhibiting the least mention of ever having any more <hi>Parliaments</hi> in <hi>England?</hi>
+            </p>
+            <p n="5">5. Why against the Petition of Right was tunnage and poundage extorted?</p>
+            <p n="6">6. Why against the Petition of Right was Ship-money levied?</p>
+            <p n="7">7. Why against the petition of Right was Coat and conduct money imposed?</p>
+            <p n="8">8. Why against the <hi>Petition</hi> of Right was such an infinite number of Monopo<g ref="char:EOLhyphen"/>lies to the draining and exhausting of the Subjects, graunted?</p>
+            <p n="9">9. Why was it attempted to make all <hi>England</hi> a Forrest, and so to make the people so many Deere for <hi>Nimrods</hi> to hunt?</p>
+            <p n="10">10. Who is the author of all the evills and grievances in the <hi>Kingdome,</hi> and so the great troubler of Israel, seeing so many malefactors, and delinquents, and in<g ref="char:EOLhyphen"/>struments of cruelty, are authorized and protected as Innocents?</p>
+            <p n="11">11. Who ayded the French King with 8. Ships, by meanes whereof the pro<g ref="char:EOLhyphen"/>testants in <hi>Rochel</hi> were most miserably destroyed, and all the rest in <hi>France</hi> left to the mercy of papists; the more easily to exercise their massacres upon them?</p>
+            <p n="12">12. How, or by whom was it, that we poore harmelesse, yet much oppressed Scots, were proclaimed Rebells, when we onely sought for right and Justice?</p>
+            <p n="13">13. By whose authority, and for what end was it, that that more then heathe<g ref="char:EOLhyphen"/>nish Beuk for sports, to prophane the Lords day, was published in every <hi>Kirke</hi> in <hi>England?</hi>
+            </p>
+            <p n="14">14. By whose countenace was it, that so many Novations have taken place, so much Idolatry and Superstition hath overspread <hi>England,</hi> so many, notorious pa<g ref="char:EOLhyphen"/>pish
+<pb facs="tcp:197606:4"/> Beuks in English of late dayes printed with their high dedications, so much restraint of preaching, so grievous persecuting of preachers even unto blood and banishment, with all waies and crafts to root out the Gospell and to set up pope<g ref="char:EOLhyphen"/>ry every where, and so to put the Prince of the Apostles <hi>(Peter,</hi> or the <hi>Pape)</hi> in pos<g ref="char:EOLhyphen"/>session of that noble and long flourishing Island?</p>
+            <p n="15">15. Who hath murdered so many Innocents in <hi>Ireland,</hi> by the long retarding of sending succours in due time, by meanes whereof so many thousands, and they <hi>Protestants,</hi> might have been preserved from such horrid and bloody butcheries? Or how came it to passe (then when the plot among us in <hi>So<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tland</hi> for murthering some of our prime Nobles, in the Kings chamber, should have taken place) that the Rebellion in <hi>Ireland</hi> began to breake forth just about the same time? Such a sympathy and harmony (it seemes) there was betweene these twe?</p>
+            <p n="16">16. What was the end of plotting, the comming up of the <hi>Yorke</hi> armie towards the <hi>City</hi> and <hi>Parliament?</hi>
+            </p>
+            <p n="17">17. What was the end of the Kings going to the <hi>Parliament</hi> with his armed Troopes of furious Cavaliers, and their manner of carriage there?</p>
+            <p n="18">18. What was the end of turning out our faithfull brother Sir <hi>William Pelphore</hi> from being Lievtenant of the Tower, and placing in his roome that desperate Ca<g ref="char:EOLhyphen"/>valier <hi>Lunsford?</hi>
+            </p>
+            <p n="19">19. By what authority was it, that the Captaines, that were by the <hi>Parliament</hi> sent into <hi>Ireland</hi> to suppresse the Rebells there, came into <hi>England</hi> againe to help the Malignant party against the <hi>Parliament?</hi>
+            </p>
+            <p n="20">20 Whether the present taking of <hi>Portsmouth</hi> by the King, through the infamous perfidiousnesse of <hi>Goring,</hi> may not stand the Malignants in as good stead against the Parliament and people, as <hi>Hull,</hi> considering that <hi>Portsmouth</hi> is neerer both to <hi>France</hi> and <hi>Spaine?</hi>
+            </p>
+            <p n="21">21. Whether the Kings Commission of <hi>Array,</hi> though it may seem to have in generall some countenance from the Law, yet can possibly be imagined to have any Law at this time, when the King stands out against his Parliament, to overthrow their <hi>Militia,</hi> which is to no other end, but to preserve both King and Kingdome from imminent ruine: considering that no Laws of the Kingdome are destructive thereof but preservative only?</p>
+            <p n="22">22. Whether the Gentry of <hi>England,</hi> who now appeare for the King against the Parliament, and so against the whole Kingdome, be true bred English men and Gentlemen, or no: or if true bred, whether they be not so farre degenerate, as to be<g ref="char:EOLhyphen"/>come enemies of <hi>God</hi> and their Countrey, and with <hi>Esau</hi> to sell their birthright of Lawes and Liberties for a messe of broth and so to purchase to their House a per<g ref="char:EOLhyphen"/>petuall Slavery, by shedding the blood of their Brethren, which they prize at so vile and ignoble a rate?</p>
+            <p n="23">23. Whether the displacing of the good Old Justices all over <hi>England,</hi> and set<g ref="char:EOLhyphen"/>ting up of new, being of the Malignant party▪ and enemies of the Kingdome, do not hasten the ruine therof▪ while they labour to root out the Gospell, and all <hi>goodnesse,</hi> to destroy the Parliament and all geud Laws, and to countenance and maintaine the most prophane in the Land, who are ready every where to make Warre against the Gospell, and all the faithfull preachers thereof?</p>
+            <p n="24">24. Whether the wounding of Religion by reproachfull names, as calling all the true professors thereof Roundheads and the like, be not a sleight of Jesuites to
+<pb facs="tcp:197606:5"/> set the Protestants together by the eares, and their Swords in one anothers sides, that so they may all perish together?</p>
+            <p n="25">25. Whether it be not the wisdome of all true hearted English and such as ac<g ref="char:EOLhyphen"/>count it their honour to be called and be true Protestants, and namely such as are enemies to Papistry, however they may differ in opinion in matter of Religion, according to the different degrees of light in their Soules, yet not to differ in their Affections one to another, but to be fast united in the bond of Charity, and com<g ref="char:EOLhyphen"/>bined in a firme resolution for the rooting out of all Papery, according to the late <hi>Protestation,</hi> which no true Protestant, and such as is not Papishly affected, nor a lover of Antichrist, and so a hater of his own soule and Salvation, will ever refuse to take professe▪ and maintaine.</p>
+            <p n="26">26. Why notwithstanding so many <hi>Protestations,</hi> and <hi>Declarations</hi> to the contrary, are Papish-Priests and Jesuites, after they are justly condemned, according to the Law for Traitors, Reprived, time after time, so as no justice can be executed on them?</p>
+            <p n="27">27. Whether so many <hi>Proclamations, Declarations, Protestations</hi> or <hi>Remonstrances,</hi> as are published in the Kings name▪ being so full of manifest and palpable falshoods, and shamelesse untruths, wherby the true meaning people are most pittifully abu<g ref="char:EOLhyphen"/>sed, seduced, deluded and blindfoulded, to the undoing of themselves and of their deare Countrey by betraying it and themselves into the hands of most wicked Ty<g ref="char:EOLhyphen"/>rants and cut-throats, and open enemies both of God and Men, ought not to be laid upon the King himselfe, as the supreme Author of them, seeing he is pleased to be the owner and maintainer of them? And whether, in particular, it be not a meer mockerie to send forth <hi>Proclamations</hi> against Papish-Recusants, inhibiting and forbiding them upon pain of high displeasure to approach the Kings person, Court, or Armie, whenas, for all this, most of them that be of the Kings Cavallry, and of his Commanders, are Papists, having nothing to excuse them from being Recu<g ref="char:EOLhyphen"/>sants but meerly the Papes Dispensation for going to Kirke; and all men know by experience, that Kirke-Papists are the worst and most dangerous?</p>
+            <p n="28">28. Whether the setting up of the Kings Standard against the Parliament and the best Subjects of the Kingdome, be not an actuall unkinging of him, as wherby he professeth an open Hostility against that Kingdome and State, which at His Coronation, he swore to protect; and as now, intending and indevouring with Might and maine to come in as a Conquerour, and so to set up a lawlesse and Tyrannicall Government over His Land, and so to make good whathe hath pro<g ref="char:EOLhyphen"/>mised, and (in His Letter to the Pape of <hi>Rome</hi> lately published in English, as afore<g ref="char:EOLhyphen"/>said) solemnly protested and vowed.</p>
+            <p>These Queres and Questions being seriously and impartially satisfied and soy<g ref="char:EOLhyphen"/>led; it cannot but most evidently appeare to every intelligent heart, that will not be willfully blinde, what is the ayme and end of the malignant party now in <hi>England,</hi> from the head to the foot of them; and how much it concernes them all who love their Religion, Laws, and liberties to look about them, and timely to endevour (by <hi>Gods</hi> assistance) to prevent their great and imminent Dangers.</p>
+            <closer>
+               <dateline>
+                  <date>Septem. 8. 1642.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
